@@ -73,8 +73,10 @@ bool isWinner(char board[], char symbol) {
     return false;
 }
 ```
-Видео фрагмент, в котором представлена работа пронраммы.
+Видео фрагмент, в котором представлена работа программы.
 
+
+Ссылка на replit - https://replit.com/@pate1k/project
 
 Проект писал в приложении Clion на опирационной системе Linux Manjaro KDE Plasma (На windows символы "━╋━╋━" менялись на '?').
 
